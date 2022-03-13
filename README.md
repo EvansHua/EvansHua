@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting Data Scicence project on Python
-- 📫 How to reach me: evansh2022@gmail.com
+- 📫 How to reach me: https://github.com/EvansHua
 
 <!---
 EvansHua/EvansHua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
